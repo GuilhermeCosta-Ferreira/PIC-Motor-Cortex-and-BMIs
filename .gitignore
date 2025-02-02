@@ -1,0 +1,16 @@
+# Folders
+build/
+node_modules/
+coverage/
+dataset/
+
+# Files
+*.o
+*.exe
+*.tmp
+*.log
+*.pyc
+
+# Special Files
+.DS_Store
+.env
